@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aidsemancik
-- 👀 I’m interested in cybersecurity and development
+- 👀 I’m interested in cybersecurity and full-stack development
 - 😎 In my free time I enjoy running, weightlifting, playing video games, watching football, and watching F1 racing
 - 📖 I’m currently learning CompTIA Network+, Python, and Bash
 - 💞 I’m looking to collaborate on cysec/network projects where I can gain practice and expertise
