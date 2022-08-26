@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aidsemancik
-- 👀 I’m interested in full-stack development, cybersecurity, networking, and game design
-- 😎 In my free time I enjoy running, weightlifting, video games, and watching football
-- 📖 I’m currently learning CompTIA Network+
-- 💞 I’m looking to collaborate on web-development projects where I can gain practice and expertise
+- 👀 I’m interested in cybersecurity and development
+- 😎 In my free time I enjoy running, weightlifting, playing video games, watching football, and watching F1 racing
+- 📖 I’m currently learning CompTIA Network+, Python, and Bash
+- 💞 I’m looking to collaborate on cysec/network projects where I can gain practice and expertise
 - 📫 How to reach me asemancik14@gmail.com
 
 <!---
