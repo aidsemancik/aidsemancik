@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aidsemancik
-- 👀 I’m interested in cybersecurity - cyber forensic analysis and pentesting
+- 👀 I’m interested in cybersecurity - pentesting and cyber forensic analysis
 - 😎 In my free time I enjoy running, weightlifting, playing video games, watching football, and watching F1 racing
 - 📖 I’m currently learning CompTIA Pentest+, Ruby, PHP, Python, Bash, and Powershell
 - 👨🏼‍💻 I'm skilled in CompTIA Network+, CompTIA Security+, HTML, CSS, and JavaScript
